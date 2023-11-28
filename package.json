@@ -30,7 +30,7 @@
     "angular-resource": "^1.5.2",
     "angular-route": "^1.5.2",
     "angular-sanitize": "^1.5.2",
-    "angular-ui-router": "^0.2.18",
+    "angular-ui-router": "^1.0.0",
     "angular-ui-select": "^0.12.100",
     "body-parser": "latest",
     "bootstrap": "latest",
@@ -46,12 +46,12 @@
     "meanio-system": "git://github.com/linnovate/meanio-system.git",
     "meanio-users": "git://github.com/linnovate/meanio-users.git",
     "morgan": "latest",
-    "npm": "^3.x",
+    "npm": "^7.0.0",
     "q": "latest",
     "request": "latest",
     "shelljs": "latest",
     "view-helpers": "latest",
-    "snyk": "1.16.0"
+    "snyk": "1.73.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
